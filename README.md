@@ -1,4 +1,4 @@
-ads_auctions
-============
+ads_animals
+===========
 
-Provides common Items features for ADS Drupal distribution.
+Provides common Animal features for ADS Drupal distribution.

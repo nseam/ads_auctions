@@ -1,0 +1,9 @@
+name = Ads Auctions
+description = Provides common Auctions features for Ads distribution
+core = 7.x
+package = ADS Auctions
+version = 7.x-1.0
+project = ads_auctions
+dependencies[] = ads_taxonomy
+features[features_api][] = api:1
+files[] = ads_auctions.module
